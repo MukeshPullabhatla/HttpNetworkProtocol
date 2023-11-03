@@ -1,6 +1,9 @@
 # HttpNetworkProtocol
 This is a simple HTTP Network Protocol
 
+## Inorder to run this application locally:
+Do `npm install --save express`
+
 # GET Request
 ## Command
 ```
